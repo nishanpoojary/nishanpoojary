@@ -16,18 +16,18 @@
 </p>  
 <br>
 
-<h2 align="center"> About Me 🧑</h2>
+<h2 align="center"> About Me</h2>
 
-<p align="center" >💻Currently working as a Application Development Associate at Accenture, India. </p>
+<p align="center" >💻 Currently working as a Application Development Associate at Accenture, India. </p>
 
 
 <h2 align="center"> Tech Stack 👨‍💻</h2>
 <div align="center">
   <a href="https://www.python.org/"><img align="center" height="26" width="26"src="https://cdn.svgporn.com/logos/python.svg"  alt="Python"><code>Python</code></a>&nbsp;
-  <a href="https://www.java.com/en/download/help/whatis_java.html"><img align="center" height="26" width="26" src="https://cdn.svgporn.com/logos/java.svg"  alt="JavaScript"><code>Java</code></a>
-  <a href="https://www.tensorflow.org/"><img align="center" src="https://cdn.svgporn.com/logos/tensorflow.svg" height="30" width="30" alt="Tensorflow"><code>Tensorflow</code></a>
+  <a href="https://www.java.com/en/download/help/whatis_java.html"><img align="center" height="26" width="26" src="https://cdn.svgporn.com/logos/java.svg"  alt="Java"><code>Java</code></a>
   <a href="https://www.mysql.com/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/mysql.svg"  alt="MySQL"><code>SQL</code></a>
-  <a href="https://www.selenium.dev/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/selenium.svg" alt="html"><code>SELENIUM</code></a>
+  <a href="https://www.tensorflow.org/"><img align="center" src="https://cdn.svgporn.com/logos/tensorflow.svg" height="30" width="30" alt="Tensorflow"><code>Tensorflow</code></a>
+  <a href="https://www.selenium.dev/"><img align="center" height="30" width="30" src="https://cdn.svgporn.com/logos/selenium.svg" alt="Selenium"><code>SELENIUM</code></a>
   <a href="https://git-scm.com/"><img align="center" height="55" width="55" src="https://cdn.svgporn.com/logos/git.svg"  alt="Git" style="max-width:100%";><code>GIT</code></a>
 
 </div> 
