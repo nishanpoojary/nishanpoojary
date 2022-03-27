@@ -17,7 +17,7 @@
 <br>
 
 <h2 align="center">About Me</h2>
-<p align="center" >💻 Currently working as a Application Development Associate at Accenture, India. </p>
+<p align="center" > Summer Fellow 2020, IIT Bombay | University of Mumbai 2021</p>
 <br>
 
 <h2 align="center"> Tech Stack 👨‍💻</h2>
