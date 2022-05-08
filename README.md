@@ -1,4 +1,8 @@
-<h1 align="center"> Hello, I'm Nishan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
+<h1 align="center"> Hello, I'm Nishan Poojary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
+
+<h2 align="center">About Me</h2>
+<p align="center" > Summer Fellow 2020, IIT Bombay | University of Mumbai 2021</p>
+
 <h2 align="center">Connect 🔗 </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/nishanpoojary/">
@@ -14,11 +18,6 @@
  <img align="center" height="22" width="100" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
 </a>&nbsp;
 </p>  
-<br>
-
-<h2 align="center">About Me</h2>
-<p align="center" > Summer Fellow 2020, IIT Bombay | University of Mumbai 2021</p>
-<br>
 
 <h2 align="center"> Tech Stack 👨‍💻</h2>
 
@@ -51,6 +50,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nishanpoojary&show_icons=true&theme=radical">
 </a>
 </details>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanpoojary" alt="nishanpoojary"/></p> 
 
 <!--
 **nishanpoojary/nishanpoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
