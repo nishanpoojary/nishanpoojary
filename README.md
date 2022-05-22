@@ -33,9 +33,11 @@
 
 ## Github Stats 📊
 
+<p align="right">
 <a href="https://github.com/nishanpoojary">
-  <img align="right" height="10%" width="10%" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+  <img height="100" width="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 </a>    
+</p>
 
 <details>
 <summary><b>Most Used Languages</b></summary>
@@ -52,7 +54,3 @@
 </details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishanpoojary" alt="nishanpoojary"/></p> 
-
-<!--
-**nishanpoojary/nishanpoojary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
