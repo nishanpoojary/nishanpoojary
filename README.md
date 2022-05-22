@@ -31,11 +31,11 @@
 </div> 
 <br>   
 
-## Github Stats 📊
+## Github Stats 📊 
 
-<p align="right">
-  <img height="100" width="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-</p>
+<a href="https://github.com/nishanpoojary">
+    <img height="75" width="75" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+</a>
 
 <details>
 <summary><b>Most Used Languages</b></summary>
