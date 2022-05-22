@@ -34,9 +34,7 @@
 ## Github Stats 📊
 
 <p align="right">
-<a href="https://github.com/nishanpoojary">
   <img height="100" width="100" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
-</a>    
 </p>
 
 <details>
