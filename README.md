@@ -6,13 +6,13 @@
 <h2 align="center">Connect 🔗 </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/nishanpoojary/">
-  <img align="center" alt="Nishan's LinkedIn"  height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>&nbsp;
-<a href="https://www.hackerrank.com/nishan_p">
-  <img align="center" alt="Nishan's Hackerrank" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="center" alt="Nishan's LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>&nbsp;  
 <a href="mailto:nishanpoojary16@gmail.com">
-  <img align="center" height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>&nbsp;
+<a href="https://www.hackerrank.com/nishan_p">
+  <img align="center" alt="Nishan's Hackerrank" src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/nishanpoojary">
  <img align="center" height="22" width="100" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
