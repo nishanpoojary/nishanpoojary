@@ -6,16 +6,16 @@
 <h2 align="center">Connect 🔗 </h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/nishanpoojary/">
-  <img align="center" alt="Nishan's LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  <img align="center" alt="Nishan's LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;  
 <a href="mailto:nishanpoojary16@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  <img align="center" alt="Email Badge" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
 <a href="https://www.hackerrank.com/nishan_p">
   <img align="center" alt="Nishan's Hackerrank" src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/nishanpoojary">
- <img align="center" height="22" width="100" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="Open Source Love"/>
+ <img align="center" alt="Nishan's Github" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" />
 </a>&nbsp;
 </p>  
 
@@ -27,7 +27,7 @@
   <a href="https://www.mysql.com/"><img align="center" height="25" width="35" src="https://cdn.svgporn.com/logos/mysql.svg"  alt="MySQL"><code>SQL</code></a>&nbsp;
   <a href="https://www.tensorflow.org/"><img align="center" height="25" width="25" src="https://cdn.svgporn.com/logos/tensorflow.svg" alt="Tensorflow"><code>Tensorflow</code></a>&nbsp;
   <a href="https://www.selenium.dev/"><img align="center" height="25" width="25" src="https://cdn.svgporn.com/logos/selenium.svg" alt="Selenium"><code>Selenium</code></a>&nbsp;
-  <a href="https://git-scm.com/"><img align="center" height="25" width="25" src="https://cdn.svgporn.com/logos/git.svg"  alt="Git" style="max-width:100%";><code>GIT</code></a>&nbsp;
+  <a href="https://git-scm.com/"><img align="center" height="25" width="25" src="https://cdn.svgporn.com/logos/git.svg"  alt="Git" ><code>GIT</code></a>&nbsp;
 </div> 
 <br>   
 
