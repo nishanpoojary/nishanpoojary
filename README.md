@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, I'm Nishan Poojary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"></h1>
+<h1 align="center"> Hello, I'm Nishan Poojary <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="25px" width="25px"></h1>
 
 <h2 align="center">About Me</h2>
 <p align="center" > Summer Fellow 2020, IIT Bombay | University of Mumbai 2021</p>
