@@ -91,4 +91,4 @@
 🔭  Currently Building :  Airflow-powered data pipelines in the cloud  
 🧠  Currently Learning :  Advanced distributed-systems design & LLM fine-tuning  
 💬  Ask me about       :  Data engineering best practices, ETL optimisation, or Spring Boot APIs  
-⚡  Fun fact            :  My autonomous drone project once pollinated 🍓 strawberry plants in a lab!
+⚡  Fun fact           :  My autonomous drone project once pollinated 🍓 strawberry plants in a lab!
