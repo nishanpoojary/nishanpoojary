@@ -54,10 +54,13 @@
   <a href="https://github.com/nishanpoojary/Bone-Age-Assessment-Using-Deep-Learning">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=Bone-Age-Assessment-Using-Deep-Learning&theme=algolia" />
   </a>
+  </a>
+  <a href="https://github.com/nishanpoojary/wormlife)">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=wormlife&theme=algolia" />
+  </a>
   <a href="https://github.com/nishanpoojary/eYRC-2018-Pollinator-Bee">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=eYRC-2018-Pollinator-Bee&theme=algolia" />
   </a>
-  <!-- Add more pinned repos here -->
   <a href="https://github.com/nishanpoojary/FSF-mathematics-python-code-archive">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=FSF-mathematics-python-code-archive&theme=algolia" />
   </a>
