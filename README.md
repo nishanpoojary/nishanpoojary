@@ -55,7 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=Bone-Age-Assessment-Using-Deep-Learning&theme=algolia" />
   </a>
   </a>
-  <a href="https://github.com/nishanpoojary/wormlife)">
+  <a href="https://github.com/nishanpoojary/wormlife">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=wormlife&theme=algolia" />
   </a>
   <a href="https://github.com/nishanpoojary/eYRC-2018-Pollinator-Bee">
