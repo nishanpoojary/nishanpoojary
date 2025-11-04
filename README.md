@@ -54,7 +54,7 @@
   <a href="https://github.com/nishanpoojary/openclaims360">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=openclaims360&theme=algolia" />
   </a>
-  <a href="https://github.com/nishanpoojary/quantum-logistics">
+    <a href="https://github.com/nishanpoojary/quantum-logistics">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=quantum-logistics&theme=algolia" />
   </a>
   <a href="https://github.com/nishanpoojary/Bone-Age-Assessment-Using-Deep-Learning">
