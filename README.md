@@ -50,31 +50,13 @@
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/nishanpoojary/openclaims360">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=openclaims360&theme=algolia" />
-  </a>
-    <a href="https://github.com/nishanpoojary/quantum-logistics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=quantum-logistics&theme=algolia" />
-  </a>
-  <a href="https://github.com/nishanpoojary/Bone-Age-Assessment-Using-Deep-Learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=Bone-Age-Assessment-Using-Deep-Learning&theme=algolia" />
-  </a>
-  </a>
-  <a href="https://github.com/nishanpoojary/wormlife">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=wormlife&theme=algolia" />
-  </a>
-  <a href="https://github.com/nishanpoojary/eYRC-2018-Pollinator-Bee">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=eYRC-2018-Pollinator-Bee&theme=algolia" />
-  </a>
-  <a href="https://github.com/nishanpoojary/FSF-mathematics-python-code-archive">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=FSF-mathematics-python-code-archive&theme=algolia" />
-  </a>
-  <a href="https://github.com/nishanpoojary/Datastructures-and-Algorithms-Problems">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nishanpoojary&repo=Datastructures-and-Algorithms-Problems&theme=algolia" />
-  </a>
-  
-</p>
+
+| **Core Engineering & Systems** | **Data, AI & Research** |
+|:---:|:---:|
+| [![Quantum Logistics](https://img.shields.io/badge/Microservices-Quantum_Logistics-blue?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/nishanpoojary/quantum-logistics)<br/>*Event-driven logistics platform (Java, Kafka, Docker)* | [![OpenClaims360](https://img.shields.io/badge/Data_Eng-OpenClaims360-blueviolet?style=for-the-badge&logo=apachekafka&logoColor=white)](https://github.com/nishanpoojary/openclaims360)<br/>*Fraud detection pipeline (Airflow, MLflow, Python)* |
+| [![DSA Problems](https://img.shields.io/badge/Algo-DSA_Problems-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://github.com/nishanpoojary/Datastructures-and-Algorithms-Problems)<br/>*Comprehensive collection of Algorithm solutions* | [![Bone Age Assessment](https://img.shields.io/badge/Deep_Learning-Bone_Age_Assessment-orange?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/nishanpoojary/Bone-Age-Assessment-Using-Deep-Learning)<br/>*X-Ray classification using Deep Learning* |
+| [![eYRC Robotics](https://img.shields.io/badge/Robotics-eYRC_Pollinator_Bee-ffdd00?style=for-the-badge&logo=arduino&logoColor=black)](https://github.com/nishanpoojary/eYRC-2018-Pollinator-Bee)<br/>*Autonomous bot for IIT Bombay Competition (2018)* | [![Wormlife](https://img.shields.io/badge/Simulation-Wormlife-green?style=for-the-badge&logo=python&logoColor=white)](https://github.com/nishanpoojary/wormlife)<br/>*Complex wrapping-world simulation game* |
+| [![eYRC Biped](https://img.shields.io/badge/Robotics-eYRC_Biped_Patrol-ffdd00?style=for-the-badge&logo=cplusplus&logoColor=black)](https://github.com/nishanpoojary/eYRC-2019-BipedPatrol)<br/>*Bipedal walking robot algorithm (C++)* | [![FSF Math](https://img.shields.io/badge/Math-FSF_Python_Archive-lightgrey?style=for-the-badge&logo=python&logoColor=white)](https://github.com/nishanpoojary/FSF-mathematics-python-code-archive)<br/>*Math animations for FOSSEE (IIT Bombay)* |
 
 ---
 
